@@ -2,10 +2,10 @@
 
 I'm a software developer with a passion for building awesome applications. I specialize in working with:
 
-- **Ionic**
 - **Vue**
 - **Symfony**
 - **Spryker**
+- **Ionic**
 
 ## 🌐 Connect with Me
 
