@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Henk! 👋
 
-<!--
-**Zurki/Zurki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with a passion for building awesome applications. I specialize in working with:
 
-Here are some ideas to get you started:
+- **Ionic**
+- **Vue**
+- **Symfony**
+- **Spryker**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+
+- **Website**: [Click me](https://henk.pm)
+- **LinkedIn**: [Click me](https://www.linkedin.com/in/henk-hornschuh-79b876263/)
+- **Instagram**: [Click me](https://www.instagram.com/h3enk/)
+
+## 🚀 What I'm Working On
+
+Employed at [**basecom**](https://www.basecom.de/en/). Working on Spryker E-Commerce Platforms.
+I'm currently developing an open-source app called [**OpenCalc**](https://github.com/B-IT-Projects-GmbH/open-calc). Stay tuned for updates and contributions!
+
+## 📫 How to Reach Me
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or send me an [E-Mail](hi@henk.pm)
+
+Thanks for stopping by! 😊
