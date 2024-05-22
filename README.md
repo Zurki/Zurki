@@ -20,6 +20,6 @@ I'm a software developer with a passion for building awesome applications. I spe
 
 ## 📫 How to Reach Me
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or send me an [E-Mail](hi@henk.pm)
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or send me an [E-Mail](mailto:lunde@adobe.com?subject=[Found on GitHub])
 
 Thanks for stopping by! 😊
