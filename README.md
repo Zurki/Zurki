@@ -5,6 +5,7 @@ I'm a software developer with a passion for building awesome applications. I spe
 - **Vue**
 - **Symfony**
 - **Spryker**
+- **Shopify**
 - **Ionic**
 
 ## 🌐 Connect with Me
